@@ -1,0 +1,13 @@
+Name: Steffon Baratheon Gender: man
+Name: Cassana Estermont Gender: Woman
+Name: Robert Baratheon Gender: man
+Name: Cersei Lannister Gender: Woman
+Name: Stannis Baratheon Gender: man
+Name: Selyse Baratheon Gender: Woman
+Name: Renly Baratheon Gender: man
+Name: Margaery Tyrell Gender: Woman
+Name: Gendry Gender: man
+Name: Joffrey Baratheon Gender: man
+Name: Myrcella Baratheon Gender: Woman
+Name: Tommen Baratheon Gender: man
+Name: Shireen Baratheon Gender: Woman
